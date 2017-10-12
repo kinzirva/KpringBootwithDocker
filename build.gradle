@@ -27,7 +27,7 @@ apply plugin: 'docker'
 // end::plugin[]
 
 // This is used as the docker image prefix (org)
-group = 'ssevening'
+group = 'kinzirva'
 
 jar {
     baseName = 'gs-spring-boot-docker'
